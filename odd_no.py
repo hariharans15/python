@@ -3,4 +3,4 @@ l=[]
 for b in range(j,k):
     if b%2!=0 and b!=1:
         l.append(b)
-print(l)
+print(*l)
