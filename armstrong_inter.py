@@ -2,7 +2,7 @@ s,r=map(int,input().split())
 a=str(s)
 l=len(a)
 #print(l)
-for i in range(s,r+1):
+for i in range(s,r):
     tema=i
     rem=0
     while(i!=0):
