@@ -1,4 +1,4 @@
 w=int(input())
-for i in range(1,6):
-    sum=w*i
+for k in range(1,6):
+    sum=w*k
     print(sum,end=' ')
