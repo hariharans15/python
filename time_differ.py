@@ -1,0 +1,5 @@
+a,b=map(int,input().split())
+q,w=map(int,input().split())
+hr=abs(a-q)
+min=abs(b-w)
+print(hr,min)
